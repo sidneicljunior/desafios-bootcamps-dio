@@ -1,4 +1,3 @@
-# desafios-bootcamps-dio
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" a href="https://www.dio.me/" rel="nofollow"><img src="https://github.com/Pleiterson/desafios-bootcamps-dio/raw/master/assets/banner.png" alt="DIO" style="max-width: 100%;"></a>
 </p>
